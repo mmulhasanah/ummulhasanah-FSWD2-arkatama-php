@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Autobiografi</title>
-    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
 	<?php
